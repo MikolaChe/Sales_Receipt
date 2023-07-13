@@ -1,0 +1,19 @@
+
+
+//    var arrNames = arrayOf("Peter", "Mik", "John", "Alex")
+//    for (name in arrNames) print("$name, ")
+//    println()
+//    var name: String = "";
+//    while (name != "exit") {
+//        print("Enter new Name: ")
+//        name = readln()
+//        var i = arrNames.size - 1;
+//        while (i > 0) {
+//            arrNames[i] = arrNames[i - 1]
+//            i--
+//        }
+//        arrNames.set(0, name)
+//        println("\nRenewed arr:")
+//        for (name in arrNames) print("$name, ")
+//        println()
+//    }
